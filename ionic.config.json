@@ -1,0 +1,10 @@
+{
+  "name": "griopr",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
